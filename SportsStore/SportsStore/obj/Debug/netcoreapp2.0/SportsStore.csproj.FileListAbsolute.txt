@@ -3,7 +3,6 @@ C:\Users\Vashdev Heerani\Documents\NewTeam\SportsStore\SportsStore\bin\Debug\net
 C:\Users\Vashdev Heerani\Documents\NewTeam\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
 C:\Users\Vashdev Heerani\Documents\NewTeam\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
 C:\Users\Vashdev Heerani\Documents\NewTeam\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
-C:\Users\Vashdev Heerani\Documents\NewTeam\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojResolveAssemblyReference.cache
 C:\Users\Vashdev Heerani\Documents\NewTeam\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
 C:\Users\Vashdev Heerani\Documents\NewTeam\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
 C:\Users\Vashdev Heerani\Documents\NewTeam\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
